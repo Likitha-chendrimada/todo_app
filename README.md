@@ -1,16 +1,23 @@
-# todo_app
+A simple and efficient To-Do List App built using Flutter and Firebase.
 
-A new Flutter project.
+The application supports task management with real-time updates and secure user authentication.
 
-## Getting Started
+🚀 Key Features 
 
-This project is a starting point for a Flutter application.
+Built using Flutter to create a fast, responsive, and cross-platform mobile UI.
 
-A few resources to get you started if this is your first Flutter project:
+Firebase Authentication (Email & Password) implemented for secure user login and signup.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Cloud Firestore Integration to store and manage tasks with real-time synchronization.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create, Read, Update, Delete (CRUD) operations fully implemented for tasks.
+
+Users can add new tasks with a simple and clean input interface.
+
+Edit existing tasks with smooth UI updates.
+
+Delete tasks instantly from the Firestore database.
+
+Mark tasks as completed using a checkbox UI with real-time updates.
+
+Each user gets a private task list, isolated through Firebase Authentication.
