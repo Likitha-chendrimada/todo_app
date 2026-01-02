@@ -1,8 +1,10 @@
 A simple and efficient To-Do List App built using Flutter and Firebase.
 
+
 The application supports task management with real-time updates and secure user authentication.
 
-🚀 Key Features 
+
+🚀 Key Features:
 
 Built using Flutter to create a fast, responsive, and cross-platform mobile UI.
 
